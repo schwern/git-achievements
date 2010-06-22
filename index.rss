@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Michael G. Schwern's Git Achievements</title>
+<item><title>Apprentice Archivist (Level 2)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Collector (Level 4)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Tree Trimmer (Level 3)</title><description>Rewrite branches with git filter-branch</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Gipsy (Level 3)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Historian (Level 4)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
