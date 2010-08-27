@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Michael G. Schwern's Git Achievements</title>
+<item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Goldsmith (Level 4)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Archivist (Level 4)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
@@ -19,5 +20,4 @@
 <item><title>Historian (Level 6)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 2)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Apprentice Goldsmith (Level 3)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 </channel></rss>
