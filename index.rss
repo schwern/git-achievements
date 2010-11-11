@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Michael G. Schwern's Git Achievements</title>
+<item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Architect (Level 5)</title><description>Created a new repository with git init.</description></item>
 <item><title>Goldsmith (Level 5)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
@@ -19,5 +20,4 @@
 <item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Presenter (Level 3)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
-<item><title>Architect (Level 4)</title><description>Created a new repository with git init.</description></item>
 </channel></rss>
