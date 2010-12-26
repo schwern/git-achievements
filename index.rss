@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Michael G. Schwern's Git Achievements</title>
+<item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Apprentice Archivist (Level 3)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
-<item><title>Apprentice Traveler (Level 3)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 </channel></rss>
