@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Michael G. Schwern's Git Achievements</title>
+<item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 <item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Cleaning lady (Level 6)</title><description>Remove untracked files from the working tree with git clean</description></item>
@@ -19,5 +20,4 @@
 <item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Goldsmith (Level 4)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Archivist (Level 4)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 </channel></rss>
