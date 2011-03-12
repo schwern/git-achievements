@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Michael G. Schwern's Git Achievements</title>
+<item><title>Apprentice Hunter (Level 3)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Hunter (Level 2)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Hunter (Level 1)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Goldsmith (Level 6)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
-<item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 </channel></rss>
