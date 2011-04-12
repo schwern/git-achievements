@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Michael G. Schwern's Git Achievements</title>
+<item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Apprentice Pilgrim (Level 2)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Master Collector (Level 7)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Architect (Level 6)</title><description>Created a new repository with git init.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Goldsmith (Level 6)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 457 times with git add -p.</description></item>
 <item><title>Apprentice Miller (Level 1)</title><description>Add only part of a file to the stage 455 times with git add -p.</description></item>
-<item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 </channel></rss>
