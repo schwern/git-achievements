@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Michael G. Schwern's Git Achievements</title>
+<item><title>Master Goldsmith (Level 7)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Archivist (Level 5)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Chimney Sweeper (Level 4)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Merchant (Level 6)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Product Manager (Level 5)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 </channel></rss>
