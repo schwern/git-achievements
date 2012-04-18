@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Michael G. Schwern's Git Achievements</title>
+<item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Merchant (Level 7)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Investigator (Level 5)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Apprentice News Reader (Level 3)</title><description>Show logs with difference each commit introduces with git whatchanged</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Pilgrim (Level 2)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Master Collector (Level 7)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Architect (Level 6)</title><description>Created a new repository with git init.</description></item>
-<item><title>Master Gipsy (Level 7)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 </channel></rss>
