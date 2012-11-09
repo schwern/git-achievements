@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Michael G. Schwern's Git Achievements</title>
+<item><title>Tree Trimmer (Level 5)</title><description>Rewrite branches with git filter-branch</description></item>
 <item><title>Librarian</title><description>Looked for change that introduce or remove a string with git log -S</description></item>
 <item><title>Butcher (Level 5)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Chimney Sweeper (Level 4)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Master Gipsy (Level 8)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Master Historian (Level 9)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
 </channel></rss>
